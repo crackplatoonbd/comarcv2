@@ -1,0 +1,132 @@
+name: comarcdesign
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.6 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/comarcdesign/assets/images/rectangle4.png
+    - packages/comarcdesign/assets/images/rectangle18.png
+    - packages/comarcdesign/assets/images/rectangle6.png
+    - packages/comarcdesign/assets/images/rectangle12.png
+    - packages/comarcdesign/assets/images/rectangle14.png
+    - packages/comarcdesign/assets/images/rectangle10.png
+    - packages/comarcdesign/assets/images/rectangle8.png
+    - packages/comarcdesign/assets/images/rectangle16.png
+    - packages/comarcdesign/assets/images/ellipse4.png
+    - packages/comarcdesign/assets/images/ellipse5.png
+    - packages/comarcdesign/assets/images/ellipse6.svg
+    - packages/comarcdesign/assets/images/ellipse7.svg
+    - packages/comarcdesign/assets/images/literallyasquare.svg
+    - packages/comarcdesign/assets/images/figmaicon.svg
+    - packages/comarcdesign/assets/images/ellipse126.png
+    - packages/comarcdesign/assets/images/ellipse127.png
+    - packages/comarcdesign/assets/images/ellipse128.png
+    - packages/comarcdesign/assets/images/group17955.svg
+    - packages/comarcdesign/assets/images/delete.png
+    - packages/comarcdesign/assets/images/keybackground.svg
+    - packages/comarcdesign/assets/images/rectangle.svg
+    - packages/comarcdesign/assets/images/line70.svg
+    - packages/comarcdesign/assets/images/path.svg
+    - packages/comarcdesign/assets/images/superg.svg
+    - packages/comarcdesign/assets/images/group17868.svg
+    - packages/comarcdesign/assets/images/group.svg
+    - packages/comarcdesign/assets/images/ellipse108.png
+    - packages/comarcdesign/assets/images/ellipse109.png
+    - packages/comarcdesign/assets/images/ellipse110.png
+    - packages/comarcdesign/assets/images/ellipse111.png
+    - packages/comarcdesign/assets/images/ellipse112.png
+    - packages/comarcdesign/assets/images/ellipse113.png
+    - packages/comarcdesign/assets/images/ellipse114.png
+    - packages/comarcdesign/assets/images/ellipse115.png
+    - packages/comarcdesign/assets/images/rectangle4168.png
+    - packages/comarcdesign/assets/images/rectangle4158.png
+    - packages/comarcdesign/assets/images/rectangle4109.png
+    - packages/comarcdesign/assets/images/path23.svg
+    - packages/comarcdesign/assets/images/ellipse83.png
+    - packages/comarcdesign/assets/images/ellipse84.png
+    - packages/comarcdesign/assets/images/ellipse75.png
+    - packages/comarcdesign/assets/images/image13.png
+    - packages/comarcdesign/assets/images/group18071.svg
+    - packages/comarcdesign/assets/images/group17961.svg
+    - packages/comarcdesign/assets/images/group17962.svg
+    - packages/comarcdesign/assets/images/ellipse101.png
+    - packages/comarcdesign/assets/images/vector3.svg
+    - packages/comarcdesign/assets/images/union.png
+    - packages/comarcdesign/assets/images/image27.png
+    - packages/comarcdesign/assets/images/image76.png
+    - packages/comarcdesign/assets/images/image35.png
+    - packages/comarcdesign/assets/images/ellipse129.png
+    - packages/comarcdesign/assets/images/ellipse130.png
+    - packages/comarcdesign/assets/images/ellipse136.png
+    - packages/comarcdesign/assets/images/group18052.svg
+    - packages/comarcdesign/assets/images/rectangle105.svg
+    - packages/comarcdesign/assets/images/path3391.svg
+    - packages/comarcdesign/assets/images/line62.svg
+    - packages/comarcdesign/assets/images/line63.svg
+    - packages/comarcdesign/assets/images/line64.svg
+    - packages/comarcdesign/assets/images/image82.png
+    - packages/comarcdesign/assets/images/image80.png
+    - packages/comarcdesign/assets/images/group101.svg
+    - packages/comarcdesign/assets/images/group17839.svg
+    - packages/comarcdesign/assets/images/image85.png
+    - packages/comarcdesign/assets/images/ellipse58.svg
+    - packages/comarcdesign/assets/images/group17348.svg
+    - packages/comarcdesign/assets/images/group17482.svg
+    - packages/comarcdesign/assets/images/path3389.svg
+    - packages/comarcdesign/assets/images/group16711.svg
+    - packages/comarcdesign/assets/images/ellipse42.svg
+    - packages/comarcdesign/assets/images/vector11.svg
+    - packages/comarcdesign/assets/images/xo42lw5i3k0.png
+    - packages/comarcdesign/assets/images/rectangle125.svg
+    - packages/comarcdesign/assets/images/rectangle131.svg
+    - packages/comarcdesign/assets/images/rectangle134.svg
+    - packages/comarcdesign/assets/images/image8.png
+    - packages/comarcdesign/assets/images/rectangle47.svg
+    - packages/comarcdesign/assets/images/image11.png
+    - packages/comarcdesign/assets/images/image12.png
+    - packages/comarcdesign/assets/images/path3414.svg
+    - packages/comarcdesign/assets/images/image55.png
+    - packages/comarcdesign/assets/images/rectangle4136.svg
+    - packages/comarcdesign/assets/images/image2.png
+    - packages/comarcdesign/assets/images/group17504.svg
+    - packages/comarcdesign/assets/images/group17503.svg
+    - packages/comarcdesign/assets/images/path3424.svg
+    - packages/comarcdesign/assets/images/image10.png
+    - packages/comarcdesign/assets/images/uxrhru8fphq.png
+    - packages/comarcdesign/assets/images/line7.svg
+    - packages/comarcdesign/assets/images/group17302.svg
+    - packages/comarcdesign/assets/images/path857.svg
+    - packages/comarcdesign/assets/images/ellipse102.png
+    - packages/comarcdesign/assets/images/image134.png
+    - packages/comarcdesign/assets/images/rectangle83.svg
+    - packages/comarcdesign/assets/images/group17305.svg
+    - packages/comarcdesign/assets/images/rectangle110.svg
+    - packages/comarcdesign/assets/images/group17442.svg
+    - packages/comarcdesign/assets/images/group74.svg
+    - packages/comarcdesign/assets/images/rectangle112.svg
+    - packages/comarcdesign/assets/images/group17445.svg
+    - packages/comarcdesign/assets/images/restutrntprofile1.png
+    - packages/comarcdesign/assets/images/document.svg
+    - packages/comarcdesign/assets/images/profile.svg
+    - packages/comarcdesign/assets/images/location.svg
+    - packages/comarcdesign/assets/images/wallet.svg
+    - packages/comarcdesign/assets/images/message.svg
+    - packages/comarcdesign/assets/images/setting.svg
+    - packages/comarcdesign/assets/images/vector.svg
+    - packages/comarcdesign/assets/images/ellipse137.png
+    - packages/comarcdesign/assets/images/homescreen2.png
+    - packages/comarcdesign/assets/images/image117.png
+    - packages/comarcdesign/assets/images/vector10.svg
